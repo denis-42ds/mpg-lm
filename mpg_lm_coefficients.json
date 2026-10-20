@@ -1,0 +1,13 @@
+{
+  "model": "hwy ~ displ (ordinary least squares)",
+  "training_data": "ggplot2::mpg (234 rows)",
+  "intercept": 35.6977,
+  "slope_displ": -3.5306,
+  "r_squared": 0.5868,
+  "rmse_mpg": 3.8196,
+  "n_observations": 234,
+  "units": {
+    "displ": "liters",
+    "hwy": "miles per gallon"
+  }
+}
